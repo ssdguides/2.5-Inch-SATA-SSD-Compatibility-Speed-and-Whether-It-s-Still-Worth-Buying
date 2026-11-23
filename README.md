@@ -1,6 +1,5 @@
 # 2.5-Inch SATA SSD: Compatibility, Speed & Buying Guide
 
-![2.5-Inch SATA SSD](2-5-inch-sata-ssd-landscape-1600x900.png)
 
 A quick reference for upgrading a laptop or desktop with a 2.5-inch SATA SSD.
 Full guide: https://ssdguides.com/2-5-inch-sata-ssd/
